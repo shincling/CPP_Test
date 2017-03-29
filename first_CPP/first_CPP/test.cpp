@@ -17,7 +17,9 @@ int main()
 	cout << "Enter number divide 3: =>";
 	cin >> var_3;
 	
-	cout <<"测试中文的现实"<<var_1;
+	cout <<"Another line"<<endl;
+	cout <<"测试中文的实现，第一个："<<var_1<<"   second:"<<var_2<<endl;
+	cout <<"This is third numer multi 2:  "<<var_3*Twice<<endl;
 	cin>>var_1;
 	return 0;
 }

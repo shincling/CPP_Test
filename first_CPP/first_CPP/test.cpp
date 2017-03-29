@@ -16,6 +16,10 @@ int main()
 	cin >> var_2;
 	cout << "Enter number divide 3: =>";
 	cin >> var_3;
+	
+	cout <<"测试中文的现实"<<var_1;
+	cin>>var_1;
+	return 0;
 }
 
 	

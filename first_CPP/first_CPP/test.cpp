@@ -20,8 +20,9 @@ int main()
 	cout <<"Another line"<<endl;
 	cout <<"测试中文的实现，第一个："<<var_1<<"   second:"<<var_2<<endl;
 	cout <<"This is third numer multi 2:  "<<var_3*Twice<<endl;
-	cin>>var_1;
+	//cin>>var_1;
 	return 0;
+	system("pause");//暂停，使得窗口不直接退出
 }
 
 	

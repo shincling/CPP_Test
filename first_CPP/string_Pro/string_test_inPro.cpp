@@ -7,6 +7,8 @@ const string LabelList="List Order\n";
 
 int main()
 {
+	cout<<(0.1+0.5==0.6);//这个输出是1，没毛病
+
 	string first,middle,last;
 	cout<<"Input your name with space:";
 	cin>>first>>middle>>last;
